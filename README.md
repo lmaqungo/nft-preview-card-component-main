@@ -60,5 +60,5 @@ where I document my learning process
 
 ## Author
 
-- Frontend Mentor - [@lmaqungo] (https://www.frontendmentor.io/profile/lmaqungo)
+- Frontend Mentor - [@lmaqungo](https://www.frontendmentor.io/profile/lmaqungo)
 - Twitter - [@avoidhuya](https://twitter.com/avoidhuya)
